@@ -7,7 +7,6 @@ import me.dio.copa.catar.remote.source.MatchDataSourceRemote
 
 @Module
 interface RemoteModule {
-
     @Binds
     fun providesMatchDataSourceRemote(impl: MatchDataSourceRemote): MatchesDataSource.Remote
 }
