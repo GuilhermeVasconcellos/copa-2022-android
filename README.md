@@ -23,6 +23,9 @@ Para facilitar a dinâmica de integração do nosso App, criamos uma Pseudo-API 
 5. :white_check_mark: Integrar o ViewModel e Activity, através da observação de estados;
 6. :white_check_mark: Por fim, criar o Work Manager para orquestrar as Notificações Push localmente.
 
+![image](https://github.com/GuilhermeVasconcellos/copa-2022-android/assets/43115561/48e9921f-3b01-4d27-ba94-b5d2328fb81e)
+  
+
 ## Materia/Live de Apoio
 
 Todos esses TODOs foram realizados nesta live incrível, com a participação de [pedrox-hs](https://github.com/pedrox-hs), [EzequielMessore](https://github.com/EzequielMessore), [igorbag](https://github.com/igorbag) e [falvojr](https://github.com/falvojr). Segue a gente aqui no GitHub e no LinkedIn 😉 
